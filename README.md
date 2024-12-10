@@ -1,2 +1,2 @@
 # ML---Breast-Cancer
- Machine Learning
+ Predicts if cancer is malignant or benign
